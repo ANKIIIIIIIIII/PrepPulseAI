@@ -1,8 +1,7 @@
 {
   "companies": [
-    { 
-      "id":1,
-      "company": "Juspay",
+    {
+      "name": "Juspay",
       "skills": [
         "Java",
         "Distributed Systems",
@@ -12,8 +11,7 @@
       "min_cgpa": 7.0
     },
     {
-      "id":2,
-      "company": "Paytm",
+      "name": "Paytm",
       "skills": [
         "Python",
         "Backend Development",
@@ -22,8 +20,7 @@
       "min_cgpa": 6.5
     },
     {
-      "id":3,
-      "company": "Coforge Limited",
+      "name": "Coforge Limited",
       "skills": [
         "Java/.NET",
         "Problem Solving",
@@ -32,8 +29,7 @@
       "min_cgpa": 6.5
     },
     {
-      "id":4,
-      "company": "Bharti Airtel Ltd.",
+      "name": "Bharti Airtel Ltd.",
       "skills": [
         "Telecom Basics",
         "Networking",
@@ -42,8 +38,7 @@
       "min_cgpa": 6.0
     },
     {
-      "id":5,
-      "company": "TATA Consultancy Services (TCS)",
+      "name": "TATA Consultancy Services (TCS)",
       "skills": [
         "Java",
         "SQL",
@@ -52,8 +47,7 @@
       "min_cgpa": 6.0
     },
     {
-      "id":6,
-      "company": "Sopra Steria India Limited",
+      "name": "Sopra Steria India Limited",
       "skills": [
         "Java",
         "Web Services",
@@ -62,8 +56,7 @@
       "min_cgpa": 6.0
     },
     {
-      "id":7,
-      "company": "LTIMindtree Limited",
+      "name": "LTIMindtree Limited",
       "skills": [
         "Cloud Basics",
         "DevOps Principles",
@@ -72,8 +65,7 @@
       "min_cgpa": 6.5
     },
     {
-      "id":8,
-      "company": "HCL Technologies Ltd.",
+      "name": "HCL Technologies Ltd.",
       "skills": [
         "C/C++/Java",
         "Operating Systems",
@@ -82,8 +74,7 @@
       "min_cgpa": 6.0
     },
     {
-      "id":9,
-      "company": "OneBanc Technologies Pvt. Ltd.",
+      "name": "OneBanc Technologies Pvt. Ltd.",
       "skills": [
         "Fintech Systems",
         "JavaScript",
@@ -92,8 +83,7 @@
       "min_cgpa": 6.5
     },
     {
-      "id":10,
-      "company": "Samsung India Electronics Pvt. Ltd.",
+      "name": "Samsung India Electronics Pvt. Ltd.",
       "skills": [
         "Embedded C",
         "Linux",
@@ -102,8 +92,7 @@
       "min_cgpa": 7.0
     },
     {
-      "id":11,
-      "company": "Polycab India Limited",
+      "name": "Polycab India Limited",
       "skills": [
         "Electrical Engineering Fundamentals",
         "Quality Testing"
@@ -111,8 +100,7 @@
       "min_cgpa": 6.0
     },
     {
-      "id":12,
-      "company": "Planify Capital Limited",
+      "name": "Planify Capital Limited",
       "skills": [
         "Finance Basics",
         "Excel",
@@ -121,8 +109,7 @@
       "min_cgpa": 6.0
     },
     {
-      "id":13,
-      "company": "Freecharge Payment Technologies Pvt. Ltd.",
+      "name": "Freecharge Payment Technologies Pvt. Ltd.",
       "skills": [
         "Python/Java",
         "Mobile Payments",
@@ -131,8 +118,7 @@
       "min_cgpa": 6.5
     },
     {
-      "id":14,
-      "company": "Comviva Technologies Limited",
+      "name": "Comviva Technologies Limited",
       "skills": [
         "Telecom Software",
         "Java",
@@ -141,8 +127,7 @@
       "min_cgpa": 6.5
     },
     {
-      "id":15,
-      "company": "Capgemini Technology Services India Limited",
+      "name": "Capgemini Technology Services India Limited",
       "skills": [
         "Java",
         "Automation Testing",
@@ -151,8 +136,7 @@
       "min_cgpa": 6.0
     },
     {
-      "id":16,
-      "company": "Accenture",
+      "name": "Accenture",
       "skills": [
         "Cloud",
         "Agile",
@@ -161,8 +145,7 @@
       "min_cgpa": 6.5
     },
     {
-      "id":17,
-      "company": "Tech Mahindra",
+      "name": "Tech Mahindra",
       "skills": [
         "Software Development Lifecycle",
         "Java/Python"
@@ -170,8 +153,7 @@
       "min_cgpa": 6.0
     },
     {
-      "id":18,
-      "company": "Airtel India",
+      "name": "Airtel India",
       "skills": [
         "Networking",
         "Python",
@@ -180,8 +162,7 @@
       "min_cgpa": 6.0
     },
     {
-      "id":19,
-      "company": "Crowe Horwath IT Services LLP",
+      "name": "Crowe Horwath IT Services LLP",
       "skills": [
         "Audit Tools",
         "SQL",
@@ -190,8 +171,7 @@
       "min_cgpa": 6.0
     },
     {
-      "id":20,
-      "company": "CG Infinity (Cyber Group India Pvt. Ltd.)",
+      "name": "CG Infinity (Cyber Group India Pvt. Ltd.)",
       "skills": [
         "Cybersecurity",
         "Python",
@@ -200,8 +180,7 @@
       "min_cgpa": 6.0
     },
     {
-      "id":21,
-      "company": "i2V Systems Pvt. Ltd.",
+      "name": "i2V Systems Pvt. Ltd.",
       "skills": [
         "Defense IT Solutions",
         "C/C++",
@@ -210,8 +189,7 @@
       "min_cgpa": 6.0
     },
     {
-      "id":22,
-      "company": "Eazy ERP Technologies Pvt. Ltd.",
+      "name": "Eazy ERP Technologies Pvt. Ltd.",
       "skills": [
         "ERP Software",
         "JavaScript",
@@ -220,8 +198,7 @@
       "min_cgpa": 6.0
     },
     {
-      "id":23,
-      "company": "DCM Infotech Ltd.",
+      "name": "DCM Infotech Ltd.",
       "skills": [
         "IT Consulting",
         "Database Management"
@@ -229,8 +206,7 @@
       "min_cgpa": 6.0
     },
     {
-      "id":24,
-      "company": "BrightRays",
+      "name": "BrightRays",
       "skills": [
         "Software Concepts",
         "Web Development"
@@ -238,8 +214,7 @@
       "min_cgpa": 6.0
     },
     {
-      "id":25,
-      "company": "FutureSoft India Pvt. Ltd.",
+      "name": "FutureSoft India Pvt. Ltd.",
       "skills": [
         "Full Stack Basics",
         "JavaScript",
@@ -248,8 +223,7 @@
       "min_cgpa": 6.0
     },
     {
-      "id":26,
-      "company": "Uneecops Technologies Limited",
+      "name": "Uneecops Technologies Limited",
       "skills": [
         "ERP Implementation",
         "SAP Basics"
@@ -257,8 +231,7 @@
       "min_cgpa": 6.0
     },
     {
-      "id":27,
-      "company": "Octa Byte AI Private Limited",
+      "name": "Octa Byte AI Private Limited",
       "skills": [
         "AI/ML Basics",
         "Python",
@@ -267,8 +240,7 @@
       "min_cgpa": 6.0
     },
     {
-      "id":28,
-      "company": "One97 Communications Limited (Paytm)",
+      "name": "One97 Communications Limited (Paytm)",
       "skills": [
         "Fintech Stack",
         "Node.js/Python",
@@ -277,8 +249,7 @@
       "min_cgpa": 6.5
     },
     {
-      "id":29,
-      "company": "Cache Digitech Pvt. Ltd.",
+      "name": "Cache Digitech Pvt. Ltd.",
       "skills": [
         "Software Development",
         "QA Testing"
@@ -286,8 +257,7 @@
       "min_cgpa": 6.0
     },
     {
-      "id":30,
-      "company": "Keywords Studios India Private Limited",
+      "name": "Keywords Studios India Private Limited",
       "skills": [
         "Game Dev Tools",
         "Scripting"
@@ -295,8 +265,7 @@
       "min_cgpa": 6.0
     },
     {
-      "id":31,
-      "company": "American EPAY Services Pvt. Ltd.",
+      "name": "American EPAY Services Pvt. Ltd.",
       "skills": [
         "Payroll Systems",
         "SQL",
@@ -305,8 +274,7 @@
       "min_cgpa": 6.0
     },
     {
-      "id":32,
-      "company": "Rupeek Capital Private Limited",
+      "name": "Rupeek Capital Private Limited",
       "skills": [
         "Fintech Products",
         "Python",
@@ -315,8 +283,7 @@
       "min_cgpa": 6.0
     },
     {
-      "id":33,
-      "company": "ArdorIT Solutions INC",
+      "name": "ArdorIT Solutions INC",
       "skills": [
         "Web Dev",
         "APIs",
@@ -325,8 +292,7 @@
       "min_cgpa": 6.0
     },
     {
-      "id":34,
-      "company": "Urban Company",
+      "name": "Urban Company",
       "skills": [
         "Mobile Apps",
         "User Experience",
@@ -335,8 +301,7 @@
       "min_cgpa": 6.0
     },
     {
-      "id":35,
-      "company": "Planetspark | Winspark Innovations Learning Private Limited",
+      "name": "Planetspark | Winspark Innovations Learning Private Limited",
       "skills": [
         "Edtech Platforms",
         "Frontend"
@@ -344,8 +309,7 @@
       "min_cgpa": 6.0
     },
     {
-      "id":36,
-      "company": "Prudentia Group LLC",
+      "name": "Prudentia Group LLC",
       "skills": [
         "Data Analysis",
         "Business Intelligence"
@@ -353,8 +317,7 @@
       "min_cgpa": 6.0
     },
     {
-      "id":37,
-      "company": "Dhani Stocks Limited",
+      "name": "Dhani Stocks Limited",
       "skills": [
         "Fintech Platforms",
         "React/Backend"
@@ -362,8 +325,7 @@
       "min_cgpa": 6.0
     },
     {
-      "id":38,
-      "company": "Mahindra & Mahindra (Minda Corp)",
+      "name": "Mahindra & Mahindra (Minda Corp)",
       "skills": [
         "Automotive Systems",
         "Embedded C"
@@ -371,8 +333,7 @@
       "min_cgpa": 6.0
     },
     {
-      "id":39,
-      "company": "Shimadzu Analytical India Pvt. Ltd.",
+      "name": "Shimadzu Analytical India Pvt. Ltd.",
       "skills": [
         "Manufacturing Software",
         "Data Tools"
@@ -380,8 +341,7 @@
       "min_cgpa": 6.0
     },
     {
-      "id":40,
-      "company": "Gamix Labs",
+      "name": "Gamix Labs",
       "skills": [
         "Game Dev",
         "Unity/Unreal"
