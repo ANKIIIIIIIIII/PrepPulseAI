@@ -37,7 +37,8 @@ st.markdown(
 
 # ---------------- TOP NAVIGATION ----------------
 tabs = st.tabs(
-    ["🏠 Home", "📄 Resume Checker", "🏢 Companies", "🎯 Placement", "📘 Study"]
+    ["🏠 Home", "📄 Resume Checker", "🏢 Companies",
+        "🎯 Placement", "📘 Study", "📘HR Round"]
 )
 
 # ---------------- SIDEBAR ----------------
@@ -296,3 +297,31 @@ with tabs[4]:
             st.write("- OS, CN\n- Internships\n- Resume building")
         elif year == "4th Year":
             st.write("- SQL & system design\n- Interview prep\n- Company targeting")
+
+
+# ======================================================
+# INTERVIEW QUIZ
+# ======================================================
+with tabs[5]:
+    st.subheader("Interview Quiz")
+
+    st.write("Test your knowledge with a quick quiz!")
+
+    q1 = st.selectbox(
+        "What is the time complexity of binary search?",
+        ["Select", "O(n)", "O(log n)", "O(n log n)", "O(1)"]
+    )
+
+    q2 = st.selectbox(
+        "Which data structure uses FIFO order?",
+        ["Select", "Stack", "Queue", "Linked List", "Tree"]
+    )
+
+    if q1 != "Select" and q2 != "Select":
+        score = 0
+        if q1 == "O(log n)":
+            score += 50
+        if q2 == "Queue":
+            score += 50
+
+        st.success(f"Your quiz score: {score}%")
