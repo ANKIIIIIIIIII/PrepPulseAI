@@ -67,9 +67,9 @@ with tabs[0]:
     st.write(
         """
         This platform helps students understand:
-        - where they stand today  
-        - what companies expect  
-        - what to study next (without violating curriculum flow)  
+        - where they stand today
+        - what companies expect
+        - what to study next (without violating curriculum flow)
         """
     )
 
@@ -128,10 +128,100 @@ with tabs[2]:
     st.write("Explore company eligibility, packages, and hiring process.")
 
     st.table({
-        "Company": ["ABC Tech", "XYZ Corp"],
-        "Min CGPA": [7.0, 6.5],
-        "Package (LPA)": [10, 6]
+        "Company": [
+            "Juspay",
+            "Paytm",
+            "Coforge Limited",
+            "Bharti Airtel Ltd.",
+            "TATA Consultancy Services (TCS)",
+            "Sopra Steria India Limited",
+            "LTIMindtree Limited",
+            "HCL Technologies Ltd.",
+            "OneBanc Technologies Pvt. Ltd.",
+            "Samsung India Electronics Pvt. Ltd.",
+            "Polycab India Limited",
+            "Planify Capital Limited",
+            "Freecharge Payment Technologies Pvt. Ltd.",
+            "Comviva Technologies Limited",
+            "Capgemini Technology Services India Limited",
+            "TalentServe",
+            "Tech Mahindra",
+            "Airtel India",
+            "Crowe Horwath IT Services LLP",
+            "CG Infinity (Cyber Group India Pvt. Ltd.)",
+            "i2V Systems Pvt. Ltd.",
+            "Eazy ERP Technologies Pvt. Ltd.",
+            "DCM Infotech Ltd.",
+            "BrightRays",
+            "FutureSoft India Pvt. Ltd.",
+            "Uneecops Technologies Limited",
+            "Octa Byte AI Private Limited",
+            "One97 Communications Limited (Paytm)",
+            "Cache Digitech Pvt. Ltd.",
+            "Keywords Studios India Private Limited",
+            "American EPAY Services Pvt. Ltd.",
+            "Rupeek Capital Private Limited",
+            "ArdorIT Solutions INC",
+            "Urban Company",
+            "Planetspark | Winspark Innovations Learning Private Limited",
+            "Prudentia Group LLC",
+            "Dhani Stocks Limited",
+            "Mahindra & Mahindra (Minda Corp)",
+            "Shimadzu Analytical India Pvt. Ltd.",
+            "Gamix Labs"
+        ],
+
+        "Min CGPA": [
+            7.0, 6.5, 6.5, 6.0, 6.0, 6.0, 6.5, 6.0, 6.5, 7.0,
+            6.0, 6.0, 6.5, 6.5, 6.0, 6.5, 6.0, 6.0, 6.0, 6.0,
+            6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.5, 6.0, 6.0,
+            6.0, 6.0, 6.0, 6.0, 6.0, 6.5, 6.0, 6.0, 6.0, 6.0
+        ],
+
+        "Package (LPA / Stipend)": [
+            "21 – 27 LPA",                 # Juspay
+            "3.0 LPA",                     # Paytm
+            "4.25 LPA",                    # Coforge
+            "5.5 – 5.57 LPA",              # Bharti Airtel
+            "3.36 LPA",                    # TCS
+            "4 – 6 LPA",                   # Sopra Steria
+            "4.05 LPA",                    # LTIMindtree
+            "3 – 4.25 LPA",                # HCL
+            "10 LPA",                      # OneBanc
+            "7.65 LPA",                    # Samsung
+            "3.0 LPA",                     # Polycab
+            "4.25 – 6.26 LPA",             # Planify
+            "5.5 – 7 LPA",                 # Freecharge
+            "5.5 LPA",                     # Comviva
+            "4 LPA",                       # Capgemini
+            "5.5-12 LPA",                  # talentserve
+            "2.37 – 3.25 LPA",             # Tech Mahindra
+            "5.5 – 5.57 LPA",              # Airtel India
+            "6.0 LPA",                     # Crowe Horwath
+            "7.0 LPA",                     # CG Infinity
+            "3 – 4.8 LPA",                 # i2V Systems
+            "3.0 – 4.2 LPA",               # Eazy ERP
+            "3 – 4.25 LPA",                # DCM Infotech
+            "4.80 LPA",                    # BrightRays
+            "4.50 LPA",                    # FutureSoft
+            "5 LPA",                       # Uneecops
+            "5 LPA",                       # Octa Byte AI
+            "3.0 LPA",                     # One97 Communications
+            "6 LPA",                       # Cache Digitech
+            "4.41 LPA",                    # Keywords Studios
+            "6.25 LPA",                    # American EPAY
+            "3.50 LPA",                    # Rupeek Capital
+            "5.80 LPA",                    # ArdorIT
+            "3.49 – 3.63 LPA",             # Urban Company
+            "6.50 LPA",               # Planetspark
+            "6.5 – 7 LPA",                 # Prudentia Group
+            "4.6 LPA",                     # Dhani Stocks
+            "3 LPA",                       # Mahindra & Mahindra
+            "3.5-4.8 LPA",               # Shimadzu
+            "2.5 – 4 LPA"                  # Gamix Labs
+        ]
     })
+
 
 # ======================================================
 # PLACEMENT

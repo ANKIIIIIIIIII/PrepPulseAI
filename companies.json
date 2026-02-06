@@ -135,13 +135,15 @@
     "min_cgpa": 6.0
   },
   {
-    "company": "Accenture",
+    "company": "TalentServe",
     "skills": [
-      "Cloud",
-      "Agile",
-      "DevOps Tools"
+      "Communication Skills",
+      "Analytical Thinking",
+      "DSA",
+      "Java",
+      "SQL"
     ],
-    "min_cgpa": 6.5
+    "min_cgpa": 7.0
   },
   {
     "company": "Tech Mahindra",
