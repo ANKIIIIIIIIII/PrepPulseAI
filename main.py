@@ -2,7 +2,7 @@ import streamlit as st
 import json
 
 with open("companies.json") as f:
-    COMPANIES = json.load(f)
+    COMPANIES = json.load(f)["companies"]
 
 
 from resume_checker import (
